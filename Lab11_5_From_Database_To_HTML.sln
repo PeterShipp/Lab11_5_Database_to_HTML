@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab11_5_From_Database_To_HTML", "Lab11_5_From_Database_To_HTML\Lab11_5_From_Database_To_HTML.csproj", "{3F62B70E-B419-425B-921C-C6D213F58230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F62B70E-B419-425B-921C-C6D213F58230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F62B70E-B419-425B-921C-C6D213F58230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F62B70E-B419-425B-921C-C6D213F58230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F62B70E-B419-425B-921C-C6D213F58230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA10E6EA-B6BF-4505-935F-1FCE6F79D278}
+	EndGlobalSection
+EndGlobal
